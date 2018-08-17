@@ -1,0 +1,17 @@
+.center {
+	text-align: center;
+}
+
+.work-area {
+	display: inline-block;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 80%;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
